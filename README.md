@@ -1,3 +1,3 @@
 # shrinah
 my first repostere
-owner= shrinath shendge
+owner= shrinath shendge shri
